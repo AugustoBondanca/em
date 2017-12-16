@@ -592,6 +592,9 @@ ul {
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
 }
+a#comecar-button {
+  font-size: 20px;
+}
 @media (min-width: 480px) and (max-width: 767px) {
   .apply-now-btn {
     font-size: 11px;

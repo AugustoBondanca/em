@@ -15,6 +15,23 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
+/*========================================================================================================
+MENU*/
+li.active {
+    margin-right: 160px;
+}
+li.briefingStyle {
+    margin-right: 160px;
+}
+li.mercadoStyle {
+    margin-right: 160px;
+}
+li.faqStyle {
+    margin-right: 160px;
+}
+li.mercadoStyle {
+    margin-right: 160px;
+}
 
 /*
  * Remove text-shadow in selection highlight:

@@ -131,6 +131,10 @@ ul {
   background: #263238;
   color: #ffffff;
 }
+.bg-primarText {
+  background: #ffffff;
+  color: #ffffff;
+}
 .bg-textPrimary {
   background: #ffffff;
   color: #8bc34a;
@@ -268,7 +272,7 @@ ul {
 }
 .title-textPrimary {
   font-size: 36px;
-  color: #ffffff;
+  color: #000000;
   text-transform: capitalize;
   text-align: center;
   font-weight: 500;
@@ -5633,7 +5637,7 @@ nav#desktop-nav li.has-child-menu:hover ul.thired-level {
   }
 }
 .why-choose-box h3 a {
-  color: #ffffff;
+  color: #000000;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
@@ -5644,7 +5648,7 @@ nav#desktop-nav li.has-child-menu:hover ul.thired-level {
   color: #8bc34a;
 }
 .why-choose-box p {
-  color: #b0bec5;
+  color: #696969;
 }
 .why-choose-box:hover a i {
   background: transparent;
@@ -8127,4 +8131,7 @@ nav#desktop-nav li.has-child-menu:hover ul.thired-level {
 }
 .select2-results__options {
   padding: 0 10px;
+}
+.footer-area-top {
+  padding: 15px;
 }

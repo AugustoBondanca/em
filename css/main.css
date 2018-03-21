@@ -17,20 +17,20 @@ html {
 }
 /*========================================================================================================
 MENU*/
-li.active {
-    margin-right: 160px;
+li.homeStyle {
+    margin-right: 160px !important;
 }
 li.briefingStyle {
-    margin-right: 160px;
+    margin-right: 160px !important;
 }
 li.mercadoStyle {
-    margin-right: 160px;
+    margin-right: 160px !important;
 }
 li.faqStyle {
-    margin-right: 160px;
+    margin-right: 160px !important;
 }
 li.mercadoStyle {
-    margin-right: 160px;
+    margin-right: 160px !important;
 }
 
 /*
